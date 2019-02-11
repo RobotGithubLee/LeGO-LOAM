@@ -1,0 +1,2 @@
+LeGO-LOAM/LeGO-LOAM:LeGO-LOAM/cloud_msgs
+-DCATKIN_DEVEL_PREFIX=/home/dell/LoGoLoam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dell/LoGoLoam_ws/install -G Unix Makefiles
